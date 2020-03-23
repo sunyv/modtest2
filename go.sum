@@ -1,0 +1,9 @@
+github.com/google/uuid v1.1.1 h1:Gkbcsh/GbpXz7lPftLA3P6TYMwjCLYm83jiFQZF/3gY=
+github.com/google/uuid v1.1.1/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=
+github.com/sunyv/modtest v0.0.0-20200323070740-74f62678198c h1:ZFfKcDw3i18FllA3Py/9TNb57rq7gich6fpWopub884=
+github.com/sunyv/modtest v0.0.0-20200323070740-74f62678198c/go.mod h1:Vdb1o+sjslGO+44myy3gvZbT27Tf0V6myBiodmPYrxI=
+github.com/sunyv/modtest v0.0.0-20200323071504-51ab3b79145f h1:Tj2AnZtzd99muHMxVheDbgS6rkumMk1pLVOw8rCtTG4=
+github.com/sunyv/modtest v0.0.0-20200323071504-51ab3b79145f/go.mod h1:Vdb1o+sjslGO+44myy3gvZbT27Tf0V6myBiodmPYrxI=
+golang.org/x/text v0.3.2 h1:tW2bmiBqwgJj/UpqtC8EpXEZVYOwU0yG4iWbprSVAcs=
+golang.org/x/text v0.3.2/go.mod h1:bEr9sfX3Q8Zfm5fL9x+3itogRgK3+ptLWKqgva+5dAk=
+golang.org/x/tools v0.0.0-20180917221912-90fa682c2a6e/go.mod h1:n7NCudcB/nEzxVGmLbDWY5pfWTLqBcC2KZ6jyYvM4mQ=
